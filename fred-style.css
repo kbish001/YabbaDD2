@@ -1,0 +1,17 @@
+img {
+  border: 15px solid #ddd;
+  border-radius: 40px;
+  padding: 3px;
+  width:600px;
+  height:450px;
+}
+
+input {
+  border: 15px solid #ddd;
+  border-radius: 40px;
+  padding: 3px;
+  width:80px;
+  height:80px;
+  font-size: 40px;
+}
+© 2021 GitHub, Inc.
